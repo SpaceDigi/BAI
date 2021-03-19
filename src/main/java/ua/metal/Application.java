@@ -14,6 +14,9 @@ public class Application {
 
         System.out.println("8 Queens");
         Queens.main(args);
+
+        System.out.println("Reinforcement");
+        Reinforcement.main(args);
     }
 
 }
