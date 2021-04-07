@@ -17,6 +17,9 @@ public class Application {
 
         System.out.println("Reinforcement");
         Reinforcement.main(args);
+
+        System.out.println("Neural network");
+        NeuralNetworkTester.main(args);
     }
 
 }
